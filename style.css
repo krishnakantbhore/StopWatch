@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    background-color: aqua;
+}
+.contener{
+    height: 50vh;
+    width: 50vh;
+    background-color: rgb(201, 227, 173);
+    border-radius: 50%;
+    padding: 20px;
+    margin-top: 200px;
+    margin-left: 550px;
+}
+#stopwatch{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 50px;
+}
+#time{
+  text-align: center;
+  font-size:30px ;
+  margin-top: -30px;
+}
+#butten1{
+    margin-left:17%;  
+    width:5vw;
+    background-color: green;
+    padding: 5px;
+    border: 0px;
+}
+#butten2{
+    width:5vw;
+    background-color: yellow;
+    padding: 5px;
+    border: 0px;
+}
+#butten3{
+    width:5vw;
+    background-color:red;
+    padding: 5px;
+    border: 0px;
+}
+span{
+    font-size: 20px;
+    color: rgb(29, 23, 2);
+}
